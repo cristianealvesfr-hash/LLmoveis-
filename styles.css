@@ -1087,6 +1087,8 @@ ul {
         height: auto;
         min-height: 100vh;
         padding-bottom: 80px;
+        background-attachment: scroll;
+        background-position: center;
     }
 
     .hero-content h1 {
